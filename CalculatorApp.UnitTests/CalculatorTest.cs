@@ -90,8 +90,6 @@ namespace CalculatorApp.UnitTests
             Assert.Throws<DoubleDivisorIsZeroException>(() => _calculator.PerformOperation("0", "0", "divide"));
         }
 
-        []
-
         /*** for unhandled unknown exceptions, i have chosen to allow the program to crash; for easier debugging when the need arises ***/
     }
 }

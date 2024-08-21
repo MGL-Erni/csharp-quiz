@@ -1,5 +1,6 @@
 using CalculatorApp.Exceptions;
 
+
 namespace CalculatorApp
 {
     /*
